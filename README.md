@@ -1,7 +1,3 @@
 # Clock_Computer-Graphics
 
-S.M. Nazmus Sakib Parves
-BSc. in Computer Science and Engineering 
-American International University - Bangladesh (AIUB)
-Email: parvesnazmussakib@gmail.com
-Contact: +8801723462142
+Here, I try to create a rotating graphics Clock which gives current time using OpenGL Library. 
